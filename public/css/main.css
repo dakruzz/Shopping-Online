@@ -1,0 +1,51 @@
+/*********************************** NAVIGATE ***********************************/
+.submit {
+    margin-left: 5px;
+    float: right;
+}
+
+.container > .navbar-collapse {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*********************************** ADD PRODUCT ADMIN ***********************************/
+form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.form-control {
+    width: 75%;
+    display: inline;
+}
+
+/*********************************** PRODUCTS LIST MAIN PAGE ***********************************/
+img {
+    max-height: 200px;
+}
+
+.productLabel{
+    padding: 10px 6px;
+    font-size: 100%;
+    position:absolute;
+    bottom: 40px;
+}
+
+.thumbnail {
+    min-height: 380px;
+    max-width: 280px;
+}
+
+/* button add */
+.add {
+    position:absolute;
+    bottom: 40px;
+    left: 50%;
+}
+
+
+
+
+
